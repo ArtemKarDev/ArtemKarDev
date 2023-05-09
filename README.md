@@ -42,4 +42,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemKarDev&theme=swift&border_radius=5&locale=ru&date_format=j%2Fn%5B%2FY%5D&stroke=9CB9EB&fire=EB6D34)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArtemKarDev)](https://github.com/ryo-ma/github-profile-trophy)
