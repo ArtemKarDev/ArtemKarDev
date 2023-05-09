@@ -34,7 +34,7 @@
 
 |Pet проекты|
 |-----------|
-| <a href="https://github.com/ArtemKarDev/provider/report.ipynb" target="_blank">прогноз оттока абонентов</a>|
+| <a href="https://github.com/ArtemKarDev/provider/blob/main/report.ipynb" target="_blank">прогноз оттока абонентов</a>|
 | <a href="http://macrame-for-you.ru:80" target="_blank">Интернет-магазин для любимой</a>|
 | <a href="https://t.me/karlashov_test_assistant_bot" target="_blank">Бот на Python - Ассистент тестировщика</a>|
 
