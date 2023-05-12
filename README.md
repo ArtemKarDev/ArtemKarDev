@@ -26,7 +26,6 @@
 |-----------|-----------|
 | <a href="https://github.com/ArtemKarDev/Selenium_pytest_allure_oop" target="_blank">Selenium</a>| Python|
 | <a href="https://github.com/ArtemKarDev/python_autotests" target="_blank">Requests</a>|   SQL    |
-| <a href="https://github.com/ArtemKarDev/cypress.js" target="_blank">Cypress</a>| Javascript |
 | <a href="https://github.com/ArtemKarDev/Postman_autotests" target="_blank">Postman</a>|
 | <a href="https://github.com/ArtemKarDev/jmeter" target="_blank">Jmeter</a>| |
 | <a href="https://artemkardev.github.io/swagger/" target="_blank">Swagger</a>|Yaml|
